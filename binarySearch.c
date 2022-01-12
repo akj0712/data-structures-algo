@@ -1,4 +1,4 @@
-// Implement Binary Search using RECURSION
+// C Progrsm to Implement Binary Search using RECURSION
 
 #include <stdio.h>
 
